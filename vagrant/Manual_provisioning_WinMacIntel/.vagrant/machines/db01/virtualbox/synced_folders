@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/Users/suisan/Documents/DevOps/devops_courses/vprofile-project/vagrant/Manual_provisioning_WinMacIntel","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
